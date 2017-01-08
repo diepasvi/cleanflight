@@ -1,4 +1,4 @@
-# Cleanflight by Diego pastor
+# Cleanflight by Diego pastor v2. Hehehe
 
 ![Cleanflight](docs/assets/cleanflight/cleanflight-logo-light-wide-1-240px.jpg)
 
