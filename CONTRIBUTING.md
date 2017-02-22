@@ -1,4 +1,4 @@
-# Issues and Support.
+# Issues and Support. from Diego... :_)
 
 Please remember the issue tracker on github is _not_ for user support.  Please also do not email developers directly for support.  Instead please use IRC or the forums first, then if the problem is confirmed create an issue that details how to repeat the problem so it can be investigated.
 
