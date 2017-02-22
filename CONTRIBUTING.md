@@ -6,7 +6,7 @@ Issues created without steps to repeat are likely to be closed.  E-mail requests
 
 Remember that issues that are due to mis-configuration, wiring or failure to read documentation just takes time away from the developers and can often be solved without developer interaction by other users.
 
-Please search for existing issues *before* creating new ones.
+Please search for existing issues *before* creating new ones and old ones... (by Diego)
 
 # Developers
 
